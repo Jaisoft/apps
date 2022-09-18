@@ -39,4 +39,4 @@ node app
 
 [index]
 
-[index]: </sspa-poc/container/index.html>
+[index]: </apps/single-spa/sspa-poc/container/index.html>
