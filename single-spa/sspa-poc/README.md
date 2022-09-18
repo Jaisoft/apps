@@ -27,6 +27,9 @@ create-single-spa
 ![image info](https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/create.png)
 
 
+Add routing to primary-nav.component.html
+
+
 ![image info](https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/nav.png)
 
 ## App1
