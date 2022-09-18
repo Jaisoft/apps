@@ -26,6 +26,9 @@ create-single-spa
 ```
 ![image info](https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/create.png)
 
+
+![image info](https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/nav.png)
+
 ## App1
 ```sh
 create-single-spa
