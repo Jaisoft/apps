@@ -21,6 +21,8 @@ Add an [index] to container folder.
 ```sh
 create-single-spa
 ```
+![image info](./pictures/image.png)
+
 ## App1
 ```sh
 create-single-spa
