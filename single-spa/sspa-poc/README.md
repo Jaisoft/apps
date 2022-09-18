@@ -21,7 +21,7 @@ Add an [index] to container folder.
 ```sh
 create-single-spa
 ```
-![image info](./pictures/image.png)
+![image info](https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/create.png)
 
 ## App1
 ```sh
