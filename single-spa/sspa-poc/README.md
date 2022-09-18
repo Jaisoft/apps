@@ -3,6 +3,7 @@
 Add serve to package.json
 
 ```sh
+mkdir container
 cd container
 npm install --save serve
 ```
