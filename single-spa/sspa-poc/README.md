@@ -39,4 +39,4 @@ node app
 
 [index]
 
-[index]: </Users/jaisoft/Documents/apps/single-spa/sspa-poc/container/index.html>
+[index]: </sspa-poc/container/index.html>
