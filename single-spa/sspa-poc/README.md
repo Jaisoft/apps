@@ -1,42 +1,35 @@
+## Container
 
-
-## HI
-
-
-
-
-
-_Hi_
-
-**Hi**   
-
-
+Add serve to package.json
 
 ```sh
-cd dillinger
-npm i
-node app
-
+cd container
+npm install --save serve
 ```
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+Add a start scripts to [package.json]
 
+```sh
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
+{
+  "scripts": {
+    "start": "serve -s -l 4200"
+  }
+}
+```
+Add an [index] to container folder.
+## Navbar
+```sh
+create-single-spa
+```
+## App1
+```sh
+create-single-spa
+```
+## App2
 
-[AngularJS]
+```sh
+create-single-spa
+```
 
-[AngularJS]: <http://angularjs.org>
-
-
-
-
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-
-[index]
-
+[package.json]: <https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/container/package.json>
 [index]: <https://github.com/Jaisoft/apps/blob/main/single-spa/sspa-poc/container/index.html>
